@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+tr:nth-child(odd) {
+  background-color: rgb(172, 184, 196);
+}
+
+th {
+  background-color: rgb(203, 181, 181);
+}
